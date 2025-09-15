@@ -2,7 +2,7 @@
 Data Science &amp; AI Engineer
 
 <p align="center">
-  <img src="https://github.com/ahmed-t-qudaih2003/ahmed-t-qudaih2003/blob/main/assets/banner.gif" alt="Demo GIF" width="900"/>
+  <img src="https://github.com/ahmed-t-qudaih2003/ahmed-t-qudaih2003/blob/main/assets/banner.gif" alt="Banner" width="100%"/>
 </p>
 
 # **Ahmed Tareq Qudaih**  
@@ -35,8 +35,13 @@ My work integrates both academic study and hands-on projects where I apply AI te
 ---
 
 ### **📫 How to Reach Me**  
-Connect with me for collaborations, research, or discussions about AI and data science:  
-- **LinkedIn**: [Ahmed-T-Qudaih](https://www.linkedin.com/in/ahmed-t-qudaih2003)  
-- **GitHub**: [Ahmed-T-Qudaih](https://github.com/ahmed-t-qudaih2003)  
-- **Kaggle**: [Ahmed-T-Qudaih](https://www.kaggle.com/ahmedqudaih2003)  
-- **Email**: ahmed.t.qud@gmail.com  
+
+<p align="center">
+  <a href="mailto:ahmed.t.qud@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/gmail.png" width="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ahmed-t-qudaih2003"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" width="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ahmed-t-qudaih2003"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/></a>
+  &nbsp;&nbsp;
+  <a href="https://www.kaggle.com/ahmedqudaih2003"><img src="https://img.icons8.com/ios-filled/50/ffffff/kaggle.png" width="40"/></a>
+</p>
