@@ -1,6 +1,3 @@
-# -Ahmed-Qudaih
-Data Science &amp; AI Engineer
-
 <p align="center">
   <img src="https://github.com/ahmed-t-qudaih2003/ahmed-t-qudaih2003/blob/main/assets/banner.gif" alt="Demo GIF" width="900"/>
 </p>
